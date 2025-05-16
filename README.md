@@ -1,5 +1,5 @@
 ***
-# <h1 align="center"> 💥Primeros Programas con POO en Java💥 </h1>
+# <h1 align="center"> 💥Primeros Programas en Java💥 </h1>
 ***
 
 <p align="center">
